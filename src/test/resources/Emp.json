@@ -1,0 +1,36 @@
+{
+    "employee": [
+     {
+        "name": "Clark",
+        "id": 501,
+        "salary":2500,
+        "jobType":"Manager",
+        "deptId":10,
+        "isFullTime":true
+    },
+    {
+        "name": "Drake",
+        "id": 502,
+        "salary":1500,
+        "jobType":"Clerk",
+        "deptId":10,
+        "isFullTime":true
+    },
+    {
+        "name": "John",
+        "id": 503,
+        "salary":4500,
+        "jobType":"Consultant",
+        "deptId":20,
+        "isFullTime":false
+    },
+    {
+        "name": "David",
+        "id": 504,
+        "salary":2700,
+        "jobType":"Clerk",
+        "deptId":10,
+        "isFullTime":false
+    }
+]
+}
